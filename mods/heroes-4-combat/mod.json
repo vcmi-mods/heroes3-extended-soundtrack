@@ -1,0 +1,15 @@
+{
+	"name" : "Heroes 4 : Combat themes",
+	"description" : "This mod adds Heroes 4 combat themes to Heroes 3. It doesn't replace any actual combat themes.",
+	"author": "Yuya Noboru",
+	"contact": "yuya.noboru@gmail.com",
+	"modType" : "Music",
+	"compatibility" : {
+		"min" : "1.4.0"
+	},
+	"keepDisabled" : false,
+	"czech" : {
+		"name" : "Heroes 4: Bojové motivy",
+		"description" : "Tato modifikace přidává bojové motivy z Heroes 4 do Heroes 3. Nenahrazuje žádné stávající bojové motivy."
+	}
+}
