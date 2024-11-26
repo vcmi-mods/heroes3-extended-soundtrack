@@ -1,0 +1,15 @@
+{
+	"name" : "Heroes 2 : Combat themes",
+	"description" : "This mod adds Heroes 2 combat themes to Heroes 3. It doesn't replace any actual combat themes.",
+	"author": "Yuya Noboru",
+	"contact": "yuya.noboru@gmail.com",
+	"modType" : "Music",
+	"compatibility" : {
+		"min" : "1.4.0"
+	},
+	"keepDisabled" : false,
+	"czech" : {
+		"name" : "Heroes 2: Bojové motivy",
+		"description" : "Tato modifikace přidává bojové motivy z Heroes 2 do Heroes 3. Nenahrazuje žádné stávající bojové motivy."
+	}
+}

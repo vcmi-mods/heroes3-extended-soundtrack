@@ -1,0 +1,15 @@
+{
+	"name" : "Heroes 2 MIDI : Combat themes",
+	"description" : "This mod adds Heroes 2 (MIDI version) combat themes to Heroes 3. It doesn't replace any actual combat themes.",
+	"author": "Yuya Noboru",
+	"contact": "yuya.noboru@gmail.com",
+	"modType" : "Music",
+	"compatibility" : {
+		"min" : "1.4.0"
+	},
+	"keepDisabled" : true,
+	"czech" : {
+		"name" : "Heroes 2 MIDI: Bojové motivy",
+		"description" : "Tato modifikace přidává bojové motivy z Heroes 2 (MIDI verze) do Heroes 3. Nenahrazuje žádné stávající bojové motivy."
+	}
+}
