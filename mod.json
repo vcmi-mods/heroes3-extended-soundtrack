@@ -2,15 +2,16 @@
 	"name" : "Heroes 3 Extended Sountrack",
 	"description" : "This mod adds more music themes from other Heroes games. By default, it adds H2 & H4 combat themes. You can then enable/disable every component you want. Heroes Legacy is a selection of Heroes 2 + Might & Magic OST, Heroes 4+ means it adds non-HOMM music to replace empty music slot that doesn't exists in H4 such as Fortress/Conflux/Dungeon.",
 	"author" : "Yuya Noboru",
-	"version" : "1.0",
+	"version" : "1.0.1",
 	"contact" : "yuya.noboru@gmail.com",
 	"modType" : "Music",
 	"compatibility" : {
 		"min" : "1.4.0"
 	},
 	"changelog" : {
-		"1.0" : [ "Added Heroes 4 musics for terrains & towns.", "Added Heroes 2 musics for terrains & towns.", "Added Might & Magic musics for Heroes Legacy Other themes."],
-		"0.1" : [ "Initial release : Added H2, H2 MIDI & H4 combat themes."]
+		"1.0.1" : [ "Fixed typo"],
+		"1.0.0" : [ "Added Heroes 4 musics for terrains & towns.", "Added Heroes 2 musics for terrains & towns.", "Added Might & Magic musics for Heroes Legacy Other themes."],
+		"0.1.0" : [ "Initial release : Added H2, H2 MIDI & H4 combat themes."]
 	},
 	"czech" : {
 		"name" : "Rozšířený soundtrack pro Heroes 3",

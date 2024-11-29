@@ -2,6 +2,7 @@
 	"name" : "Heroes 2 MIDI : Combat themes",
 	"description" : "This mod adds Heroes 2 (MIDI version) combat themes to Heroes 3. It doesn't replace any actual combat themes.",
 	"author": "Yuya Noboru",
+	"version" : "1.0",
 	"contact": "yuya.noboru@gmail.com",
 	"modType" : "Music",
 	"compatibility" : {
