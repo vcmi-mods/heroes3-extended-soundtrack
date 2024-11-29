@@ -2,6 +2,7 @@
 	"name" : "Heroes 4 : Towns",
 	"description" : "Replace H3 towns theme with a selection of Heroes 4 original soundtracks. All audios have been reworked a little for better quality. There's no replacement for Conflux & Dungeon. Fortress is a M&M bonus track.",
 	"author": "Yuya Noboru",
+	"version" : "1.0",
 	"contact": "yuya.noboru@gmail.com",
 	"modType" : "Music",
 	"compatibility" : {
