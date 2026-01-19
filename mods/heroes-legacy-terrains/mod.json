@@ -1,16 +1,19 @@
 {
-	"name" : "Heroes Legacy : Terrains",
-	"description" : "Replace H3 terrains theme with a selection of Heroes 2 and Might & Magic 6 original soundtracks. All audios have been reworked a little for better quality.",
-	"author": "Yuya Noboru",
-	"version" : "1.0",
-	"contact": "yuya.noboru@gmail.com",
-	"modType" : "Music",
-	"compatibility" : {
-		"min" : "1.4.0"
+	"name" :			"Heroes Legacy : Terrains",
+	"description" :		"Replace H3 terrains theme with a selection of Heroes 2 and Might & Magic 6 original soundtracks. All audios have been reworked a little for better quality.",
+
+	"author":			"Yūya Noboru",
+	"version" :			"Same as main mod.",
+	"contact":			"yuya.noboru@gmail.com",
+	"modType" :			"Music",
+	"compatibility":{	"min" : "1.4.0"},
+	"keepDisabled" :	false,
+	"french":{
+		"name" :		"Heroes Legacy: Terrains",
+		"description" :	"Remplace les musiques des terrains par une sélection de musiques provenant d'Heroes 2 et Might & Magic 6. Chaque musique a été retravaillée légèrement pour améliorer leur qualité."
 	},
-	"keepDisabled" : false,
 	"czech" : {
-		"name" : "Heroes Legacy: Terény",
+		"name" :		"Heroes Legacy: Terény",
 		"description" : "Nahrazuje zvuková témata terénů výběrem originálních soundtracků z Heroes 2 a Might & Magic 6. Všechny zvukové stopy byly mírně upraveny pro lepší kvalitu."
 	}
 }

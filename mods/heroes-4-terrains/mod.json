@@ -1,16 +1,19 @@
 {
-	"name" : "Heroes 4 : Terrains",
-	"description" : "Replace H3 terrains theme with a selection of Heroes 4 original soundtracks. All audios have been reworked a little for better quality.",
-	"author": "Yuya Noboru",
-	"version" : "1.0",
-	"contact": "yuya.noboru@gmail.com",
-	"modType" : "Music",
-	"compatibility" : {
-		"min" : "1.4.0"
+	"name" :			"Heroes 4 : Terrains",
+	"description" :		"Replace H3 terrains theme with a selection of Heroes 4 original soundtracks. All audios have been reworked a little for better quality.",
+
+	"author":			"Yūya Noboru",
+	"version" :			"Same as main mod.",
+	"contact": 			"yuya.noboru@gmail.com",
+	"modType" :			"Music",
+	"compatibility":{	"min" : "1.4.0"},
+	"keepDisabled" :	true,
+	"french":{
+		"name" :		"Heroes 4: Terrains",
+		"description" :	"Remplace les musiques des terrains par une sélection de musiques provenant d'Heroes 4. Chaque musique a été retravaillée légèrement pour améliorer leur qualité."
 	},
-	"keepDisabled" : true,
 	"czech" : {
-		"name" : "Heroes 4: Terény",
+		"name" :		"Heroes 4: Terény",
 		"description" : "Nahrazuje zvuková témata terénů výběrem originálních soundtracků z Heroes 4. Všechny zvukové stopy byly mírně upraveny pro lepší kvalitu."
 	}
 }

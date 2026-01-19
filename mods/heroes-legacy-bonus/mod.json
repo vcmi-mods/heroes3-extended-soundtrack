@@ -1,16 +1,19 @@
 {
-	"name" : "Heroes Legacy : Other themes",
-	"description" : "Replace H3 AI Themes 2 & 3 theme with a selection Might & Magic original soundtracks. All audios have been reworked a little for better quality.",
-	"author": "Yuya Noboru",
-	"version" : "1.0",
-	"contact": "yuya.noboru@gmail.com",
-	"modType" : "Music",
-	"compatibility" : {
-		"min" : "1.4.0"
+	"name" :			"Heroes Legacy : Other themes",
+	"description" :		"Replace H3 AI Themes 2 & 3 theme with a selection Might & Magic original soundtracks. All audios have been reworked a little for better quality.",
+
+	"author":			"Yūya Noboru",
+	"version" :			"Same as main mod.",
+	"contact": 			"yuya.noboru@gmail.com",
+	"modType" :			"Music",
+	"compatibility":{	"min" : "1.4.0"},
+	"keepDisabled" :	false,
+	"french":{
+		"name" :		"Heroes Legacy: Autres thèmes",
+		"description" :	"Remplace diverses autres musiques par une sélection de musiques provenant de Might & Magic. Chaque musique a été retravaillée légèrement pour améliorer leur qualité."
 	},
-	"keepDisabled" : false,
 	"czech" : {
-		"name" : "Heroes Legacy: Ostatní motivy",
-		"description" : "Nahrazuje zvuková témata AI 2 a 3 výběrem originálních soundtracků z Might & Magic. Všechny zvukové stopy byly mírně upraveny pro lepší kvalitu."
+		"name" :		"Heroes Legacy: Ostatní motivy",
+		"description" :	"Nahrazuje zvuková témata AI 2 a 3 výběrem originálních soundtracků z Might & Magic. Všechny zvukové stopy byly mírně upraveny pro lepší kvalitu."
 	}
 }

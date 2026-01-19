@@ -1,16 +1,19 @@
 {
-	"name" : "Heroes Legacy : Towns",
-	"description" : "Replace H3 Towns theme with a selection of Heroes 2 and Might & Magic original soundtracks. All audios have been reworked a little for better quality.",
-	"author": "Yuya Noboru",
-	"version" : "1.0",
-	"contact": "yuya.noboru@gmail.com",
-	"modType" : "Music",
-	"compatibility" : {
-		"min" : "1.4.0"
+	"name" :			"Heroes Legacy : Towns",
+	"description" :		"Replace H3 Towns theme with a selection of Heroes 2 and Might & Magic original soundtracks. All audios have been reworked a little for better quality.",
+
+	"author":			"Yūya Noboru",
+	"version" :			"Same as main mod.",
+	"contact":			"yuya.noboru@gmail.com",
+	"modType" :			"Music",
+	"compatibility":{	"min" : "1.4.0"},
+	"keepDisabled" :	true,
+	"french":{
+		"name" :		"Heroes Legacy: Factions",
+		"description" :	"Remplace les musiques des factions par une sélection de musiques provenant d'Heroes 2 et Might & Magic. Chaque musique a été retravaillée légèrement pour améliorer leur qualité."
 	},
-	"keepDisabled" : true,
 	"czech" : {
-		"name" : "Heroes Legacy: Města",
-		"description" : "Nahrazuje zvuková témata měst výběrem originálních soundtracků z Heroes 2 a Might & Magic. Všechny zvukové stopy byly mírně upraveny pro lepší kvalitu."
+		"name" :		"Heroes Legacy: Města",
+		"description" :	"Nahrazuje zvuková témata měst výběrem originálních soundtracků z Heroes 2 a Might & Magic. Všechny zvukové stopy byly mírně upraveny pro lepší kvalitu."
 	}
 }

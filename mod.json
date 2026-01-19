@@ -1,26 +1,31 @@
 {
-	"name" : "Heroes 3 Extended Sountrack",
-	"description" : "This mod adds more music themes from other Heroes games. By default, it adds H2 & H4 combat themes. You can then enable/disable every component you want. Heroes Legacy is a selection of Heroes 2 + Might & Magic OST, Heroes 4+ means it adds non-HOMM music to replace empty music slot that doesn't exists in H4 such as Fortress/Conflux/Dungeon.",
-	"author" : "Yuya Noboru",
-	"version" : "1.0.2",
-	"contact" : "yuya.noboru@gmail.com",
-	"modType" : "Music",
-	"compatibility" : {
-		"min" : "1.4.0"
-	},
+	"name" :			"Heroes 3 Extended Sountrack",
+	"description" :		"This mod adds more music themes from other Heroes games. By default, it adds H2 & H4 combat themes. You can then enable/disable every component you want. Heroes Legacy is a selection of Heroes 2 + Might & Magic OST, Heroes 4+ means it adds non-HOMM music to replace empty music slot that doesn't exists in H4 such as Fortress/Conflux/Dungeon.",
+
+	"author" :			"Yūya Noboru",
+	"version" :			"1.0.3",
+	"contact" :			"yuya.noboru@gmail.com",
+	"modType" :			"Music",
+	"compatibility" :{	"min" : "1.4.0"},
+
 	"changelog" : {
-		"1.0.2" : [ "Chinese Description added by Zerodys"],
-		"1.0.1" : [ "Fixed typo"],
+		"1.0.3" : [	"Added Main menu soundtrack to Heroes Legacy Bonus submod."],
+		"1.0.2" : [ "Chinese Description added by Zerodys."],
+		"1.0.1" : [ "Fixed typo."],
 		"1.0.0" : [ "Added Heroes 4 musics for terrains & towns.", "Added Heroes 2 musics for terrains & towns.", "Added Might & Magic musics for Heroes Legacy Other themes."],
 		"0.1.0" : [ "Initial release : Added H2, H2 MIDI & H4 combat themes."]
 	},
 	"czech" : {
-		"name" : "Rozšířený soundtrack pro Heroes 3",
-		"description" : "Tato modifikace přidává další hudební motivy z ostatních her série Heroes. Ve výchozím nastavení přidává bojové skladby z Heroes 2 a Heroes 4. Poté si můžete libovolně povolit nebo zakázat jednotlivé komponenty. Heroes Legacy je výběr hudby z Heroes 2 a Might & Magic OST, Heroes 4+ přidává ne-HOMM hudbu pro nahrazení prázdných hudebních míst, která neexistují v H4, jako například pro frakce Pevnost/Soutok/Jeskyně."
+		"name" :		"Rozšířený soundtrack pro Heroes 3",
+		"description" :	"Tato modifikace přidává další hudební motivy z ostatních her série Heroes. Ve výchozím nastavení přidává bojové skladby z Heroes 2 a Heroes 4. Poté si můžete libovolně povolit nebo zakázat jednotlivé komponenty. Heroes Legacy je výběr hudby z Heroes 2 a Might & Magic OST, Heroes 4+ přidává ne-HOMM hudbu pro nahrazení prázdných hudebních míst, která neexistují v H4, jako například pro frakce Pevnost/Soutok/Jeskyně."
+	},
+	"french" : {
+		"name" :		"Heroes 3, Musiques additionnelles",
+		"description" :	"Ce mod ajoute des musiques provenant d'autres jeux d'Heroes of Might and Magic. Par défaut, il ajoute les themes de combats d'Heroes 2 et Heroes 4. Ensuite, vous pouvez activer/désactiver chacune des options que vous souhaitez. Les sous-mod Heroes Legacy sont des sélections de musiques d'Heroes 2 et de la saga Might & Magic."
 	},
 	"chinese" : {
-		"name" : "英雄无敌3扩展音轨",
-		"description" : "这个模组添加了来自其他英雄无敌游戏的更多音乐主题。默认情况下，添加了H2和H4的战斗主题。你可以启用或禁用每个组件。英雄无敌：传承是来自H2 + 魔法门音轨的精选，英雄无敌4+指的是添加了非英雄无敌的音乐来替换H4中不存在的空档，例如要塞/交汇处/地牢。"
+		"name" : 		"英雄无敌3扩展音轨",
+		"description" :	"这个模组添加了来自其他英雄无敌游戏的更多音乐主题。默认情况下，添加了H2和H4的战斗主题。你可以启用或禁用每个组件。英雄无敌：传承是来自H2 + 魔法门音轨的精选，英雄无敌4+指的是添加了非英雄无敌的音乐来替换H4中不存在的空档，例如要塞/交汇处/地牢。"
 	}
 
 }
