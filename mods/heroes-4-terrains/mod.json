@@ -3,7 +3,7 @@
 	"description" :		"Replace H3 terrains theme with a selection of Heroes 4 original soundtracks. All audios have been reworked a little for better quality.",
 
 	"author":			"Yūya Noboru",
-	"version" :			"Same as main mod.",
+	"version" :			"1.0.4",
 	"contact": 			"yuya.noboru@gmail.com",
 	"modType" :			"Music",
 	"compatibility":{	"min" : "1.4.0"},

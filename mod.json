@@ -3,12 +3,13 @@
 	"description" :		"This mod adds more music themes from other Heroes games. By default, it adds H2 & H4 combat themes. You can then enable/disable every component you want. Heroes Legacy is a selection of Heroes 2 + Might & Magic OST, Heroes 4+ means it adds non-HOMM music to replace empty music slot that doesn't exists in H4 such as Fortress/Conflux/Dungeon.",
 
 	"author" :			"Yūya Noboru",
-	"version" :			"1.0.3",
+	"version" :			"1.0.4",
 	"contact" :			"yuya.noboru@gmail.com",
 	"modType" :			"Music",
 	"compatibility" :{	"min" : "1.4.0"},
 
 	"changelog" : {
+		"1.0.4" : [	"Fixed mod.json files."],
 		"1.0.3" : [	"Added Main menu soundtrack to Heroes Legacy Bonus submod."],
 		"1.0.2" : [ "Chinese Description added by Zerodys."],
 		"1.0.1" : [ "Fixed typo."],
